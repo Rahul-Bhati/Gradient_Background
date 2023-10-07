@@ -6,4 +6,4 @@ You can also give the gradient a specific angle. For example, 0deg creates a ver
 Gradients can be used in apps and websites to make them look more attractive. For example, the Instagram logo uses a gradient. 
 You can create a gradient background in: CSS, React Native, Android. 
 
-Live : https://rahul-bhati.github.io/Gradient_Background/(href:"https://rahul-bhati.github.io/Gradient_Background/")
+Live : https://rahul-bhati.github.io/Gradient_Background/
